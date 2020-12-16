@@ -1,13 +1,12 @@
 # Personal Responsive Profile
  
- 
 # Description
-This is the personal profile of Krista Meiers. It was created using Bootstrap components to build a responsive portfolio of updated projects. 
+This is the personal profile of Krista Meiers. It was created using Bootstrap components to build a responsive portfolio of updated projects from the UPenn Coding Bootcamp. 
  
 # Homepage - Index.html
 Link to homepage: https://kristacoding.github.io/
  
-The first page, kristacoding.github.io introduces the reader to me, Krista Meiers, with a picture and short paragraph of my current employment, work, and fun facts. 
+The first page, kristacoding.github.io, introduces the reader to me with a picture and short paragraph of my current employment, work, and fun facts. 
  
 This page was created using bootstrap components in the navigation, div containers, buttons, and footers to build a responsive page for any device. Personal touches were added through with CSS such as the font pulled from Google fonts, the image border, and color theme. 
  
@@ -15,20 +14,22 @@ The footer two components from bootstrap. First, I added a <div class= "col-md-1
  
 The main focus was to build a page that would accurately represent me as a Junior Full Stack Developer and an SEO Specialist. 
  
-Link a picture of the homepage: <img src="C:\Users\krist\class1\classwork\kristacoding.github.io\images\Krista - Homepage.png">
+Link a picture of the homepage:
+ <img src="C:\Users\krist\class1\classwork\kristacoding.github.io\images\Krista - Homepage.png">
 
  
 # Portfolio - Portfolio.html 
 Link to the portfolio page: https://kristacoding.github.io/portfolio.html
  
-This second page was created to hold all my current projects. To show my bootstrap component and div container/row skills, I have added in placeholders to hold future projects. 
+The Portfolio Page was created to hold all my current projects. To show my bootstrap component and div container/row skills, I have added in placeholders to hold future projects. 
  
 The first set of 'cards' were created by using the bootstrap component cards with a div row to add 4 cards in a row. Implementing images, links and button code was also used here to create a friendly user experience. 
  
 The second row was created to show my understanding of div rows and columns. The first row is divided in half using <div class="col-md-6">, to make two columns 'Front end Projects' and 'Backend Projects'. Embedded in the first column code 'Front end Projects', I have added three additional columns to make separate sections for 'HTML', 'CSS' and 'Javascript' projects using <div class="col-md-4">. In the 'Backend Projects', I made two additional columns using <div class="col-md-6">. To easily show the different columns and rows, I have added a border around each section using the class 'border'.  
 
 
-Link a picture of the portfolio page: <img src="C:\Users\krist\class1\classwork\kristacoding.github.io\images\Krista - Portfolio.png">
+Link a picture of the portfolio page: 
+<img src="C:\Users\krist\class1\classwork\kristacoding.github.io\images\Krista - Portfolio.png">
 
  
 # Contact Form - Contactme.html 
